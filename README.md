@@ -1,4 +1,3 @@
-## Hi there 👋
 ## 👋 Olá, eu sou o Bruno
 
 Desenvolvedor Python focado em backend, automação e qualidade de software.
